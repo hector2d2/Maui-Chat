@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "338159906617",
+    "project_id": "pushnotification-sn",
+    "storage_bucket": "pushnotification-sn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338159906617:android:6cd0fd70775d4f484202e8",
+        "android_client_info": {
+          "package_name": "com.companyname.mauichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338159906617-26fc4etjc22i4lgm9kprtludkejamk1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsDfBrLJl53ACLiMnjgbQZd3EUCYiCskc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338159906617-26fc4etjc22i4lgm9kprtludkejamk1a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "338159906617-jk1unpbbk9pqnoc29ufuhjm53eoe2aae.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sanborns.miespacio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338159906617:android:4aa45178b743ce354202e8",
+        "android_client_info": {
+          "package_name": "com.sanborns.miespacio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338159906617-26fc4etjc22i4lgm9kprtludkejamk1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsDfBrLJl53ACLiMnjgbQZd3EUCYiCskc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338159906617-26fc4etjc22i4lgm9kprtludkejamk1a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "338159906617-jk1unpbbk9pqnoc29ufuhjm53eoe2aae.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sanborns.miespacio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
